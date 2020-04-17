@@ -1,0 +1,31 @@
+I4:
+
+Explain: 2/2 
+
+Technical: 2/2
+
+Architecture: 2/2
+
+Tests: 1/2 - failed to describe acceptance tests 
+
+Overview: 2/2
+
+Total: 9/10
+
+D4:
+
+Implementation: 40/40
+
+Testing: 15/20 - acceptance tests are not set up properly (acceptance tests are not regression tests)
+
+User Guide: 10/10
+
+Design Document:  9/10 - small error with sequence diagram
+ 
+Process: 20/20
+
+Presentation and quality of writing: 10/10
+
+Total: 104/110
+
+* The professor will mark the "Amount of work done compared with other teams" Section 
